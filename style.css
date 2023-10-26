@@ -1,5 +1,5 @@
 h1 {
-  border: 5px pink solid;
+  border: 5px solid red;
   max-width: 800px;
   margin: 50px;
 }
@@ -8,6 +8,14 @@ body {
   background-color: darkblue;
 }
 
-.pink-text {
-  color: pink;
+.gray-border {
+  border: 5px solid gray;
+}
+
+.background {
+  background-color: lightblue;
+}
+
+.large {
+  padding: 5%;
 }
